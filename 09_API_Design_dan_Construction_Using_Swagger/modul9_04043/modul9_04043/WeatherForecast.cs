@@ -1,4 +1,4 @@
-namespace modul9_04043
+namespace JurnalModul9_2311104043
 {
     public class WeatherForecast
     {

@@ -1,5 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
-using modul9_04043;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace JurnalModul9_2311104043.Controllers;
 
