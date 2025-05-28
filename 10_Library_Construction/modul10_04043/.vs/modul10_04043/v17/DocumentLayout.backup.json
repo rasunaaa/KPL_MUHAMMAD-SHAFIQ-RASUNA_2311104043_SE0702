@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9592C8-E02C-4F27-BB0E-7FBD541CC279}|MatematikaLibraries\\MatematikaLibraries.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\modul10_04043\\matematikalibraries\\matematika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9592C8-E02C-4F27-BB0E-7FBD541CC279}|MatematikaLibraries\\MatematikaLibraries.csproj|solutionrelative:matematikalibraries\\matematika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\modul10_04043\\modul10_04043\\mainapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|solutionrelative:modul10_04043\\mainapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E9592C8-E02C-4F27-BB0E-7FBD541CC279}|MatematikaLibraries\\MatematikaLibraries.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\modul10_04043\\matematikalibraries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E9592C8-E02C-4F27-BB0E-7FBD541CC279}|MatematikaLibraries\\MatematikaLibraries.csproj|solutionrelative:matematikalibraries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\modul10_04043\\modul10_04043\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|solutionrelative:modul10_04043\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\modul10_04043\\modul10_04043\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D2D915-C067-4D0E-B1A8-A82CF1A9DF9C}|modul10_04043\\MainApp.csproj|solutionrelative:modul10_04043\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\MainApp.csproj",
+              "RelativeDocumentMoniker": "modul10_04043\\MainApp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\MainApp.csproj",
+              "RelativeToolTip": "modul10_04043\\MainApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T20:46:44.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\MatematikaLibraries\\Program.cs",
+              "RelativeDocumentMoniker": "MatematikaLibraries\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\MatematikaLibraries\\Program.cs",
+              "RelativeToolTip": "MatematikaLibraries\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:45:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matematika.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\MatematikaLibraries\\Matematika.cs",
+              "RelativeDocumentMoniker": "MatematikaLibraries\\Matematika.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\MatematikaLibraries\\Matematika.cs",
+              "RelativeToolTip": "MatematikaLibraries\\Matematika.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:34:19.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\MainApp.csproj",
+              "RelativeDocumentMoniker": "modul10_04043\\MainApp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\MainApp.csproj",
+              "RelativeToolTip": "modul10_04043\\MainApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T20:32:33.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\Program.cs",
+              "RelativeDocumentMoniker": "modul10_04043\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\modul10_04043\\modul10_04043\\Program.cs",
+              "RelativeToolTip": "modul10_04043\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:27:08.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

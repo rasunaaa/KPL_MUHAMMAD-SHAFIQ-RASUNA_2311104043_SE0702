@@ -1,0 +1,5 @@
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\Repo gua ini\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\10_Library_Construction\modul10_04043\modul10_04043\obj\Debug\net8.0\main app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\Repo gua ini\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\10_Library_Construction\modul10_04043\modul10_04043\obj\Debug\net8.0\main app.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\Repo gua ini\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\10_Library_Construction\modul10_04043\modul10_04043\obj\Debug\net8.0\main app.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\Repo gua ini\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\10_Library_Construction\modul10_04043\modul10_04043\obj\Debug\net8.0\main app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Dokumen\tugas smt 4\KPL\Repo gua ini\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\10_Library_Construction\modul10_04043\modul10_04043\obj\Debug\net8.0\main app.sourcelink.json

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348E2A64-D032-4561-8C06-7E849831D1DA}|MainApp\\MainApp.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\tpmodul10\\mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348E2A64-D032-4561-8C06-7E849831D1DA}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348E2A64-D032-4561-8C06-7E849831D1DA}|MainApp\\MainApp.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\tpmodul10\\mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{348E2A64-D032-4561-8C06-7E849831D1DA}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D80116-96EA-4ED9-9EC4-7BA9705B43CE}|Tpmodul10\\AljabarLibraries.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\tpmodul10\\tpmodul10\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4D80116-96EA-4ED9-9EC4-7BA9705B43CE}|Tpmodul10\\AljabarLibraries.csproj|solutionrelative:tpmodul10\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D80116-96EA-4ED9-9EC4-7BA9705B43CE}|Tpmodul10\\AljabarLibraries.csproj|c:\\users\\asus\\onedrive\\dokumen\\tugas smt 4\\kpl\\repo gua ini\\kpl_muhammad-shafiq-rasuna_2311104043_se0702\\10_library_construction\\tpmodul10\\tpmodul10\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D80116-96EA-4ED9-9EC4-7BA9705B43CE}|Tpmodul10\\AljabarLibraries.csproj|solutionrelative:tpmodul10\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainApp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\MainApp\\MainApp.csproj",
+              "RelativeDocumentMoniker": "MainApp\\MainApp.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\MainApp\\MainApp.csproj",
+              "RelativeToolTip": "MainApp\\MainApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T21:15:36.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarLibraries",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\Tpmodul10\\AljabarLibraries.csproj",
+              "RelativeDocumentMoniker": "Tpmodul10\\AljabarLibraries.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\Tpmodul10\\AljabarLibraries.csproj",
+              "RelativeToolTip": "Tpmodul10\\AljabarLibraries.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T21:11:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\MainApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\MainApp\\Program.cs",
+              "RelativeToolTip": "MainApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:11:30.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\Tpmodul10\\Aljabar.cs",
+              "RelativeDocumentMoniker": "Tpmodul10\\Aljabar.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Dokumen\\tugas smt 4\\KPL\\Repo gua ini\\KPL_MUHAMMAD-SHAFIQ-RASUNA_2311104043_SE0702\\10_Library_Construction\\Tpmodul10\\Tpmodul10\\Aljabar.cs",
+              "RelativeToolTip": "Tpmodul10\\Aljabar.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:09:18.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
